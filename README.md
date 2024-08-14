@@ -1,5 +1,10 @@
 # Login
 
+# Sobre o projeto
+
+O objetivo deste projeto é criar uma página de login funcional e esteticamente agradável usando HTML e CSS. 
+A página de login é uma parte fundamental de muitos aplicativos web, proporcionando um ponto de entrada seguro para os usuários.
+
 
 ## Layout do projeto
 
@@ -16,6 +21,6 @@
 Ana Caroline Lopes
 
 Linkedin:
-https://www.linkedin.com/in/ana-caroline-lopes/
+https://www.linkedin.com/in/ana-caroline-lopes-288a14188/
 
 E-mail:cutecarolinelopes@gmail.com
