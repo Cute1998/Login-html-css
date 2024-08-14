@@ -23,4 +23,4 @@ Ana Caroline Lopes
 Linkedin:
 https://www.linkedin.com/in/ana-caroline-lopes-288a14188/
 
-E-mail:cutecarolinelopes@gmail.com
+E-mail: cutecarolinelopes@gmail.com
